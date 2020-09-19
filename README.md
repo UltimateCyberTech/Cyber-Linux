@@ -13,7 +13,7 @@ it is unofficial repository maintained by me Rajdeep Verma @UltimateCyberTech. y
 
 ### List Of Available Packages
 1. ngrok
-2. Linux-Style
+2. upkg
 3. config
 
 ### @UltimateCyberTech
