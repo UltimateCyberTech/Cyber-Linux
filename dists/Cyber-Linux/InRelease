@@ -1,0 +1,72 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Architectures: all aarch64 arm i686 x86_64
+Codename: Cyber-Linux
+Components: main
+Date: Sat, 19 Sep 2020 16:16:43 +0000
+Label: Cyber-Linux APT repository for Linux
+Origin: Linux Packages (Cyber-Linux)
+Suite: Cyber-Linux
+MD5Sum:
+ 4a50ed2d9f46743aafbd0ffcf927761e              220 Release
+ d41d8cd98f00b204e9800998ecf8427e                0 main/binary-aarch64/Packages
+ 8dc5aea5b03dff8595f096f9e368e888               32 main/binary-aarch64/Packages.xz
+ d41d8cd98f00b204e9800998ecf8427e                0 main/binary-all/Packages
+ 8dc5aea5b03dff8595f096f9e368e888               32 main/binary-all/Packages.xz
+ d41d8cd98f00b204e9800998ecf8427e                0 main/binary-arm/Packages
+ 8dc5aea5b03dff8595f096f9e368e888               32 main/binary-arm/Packages.xz
+ d41d8cd98f00b204e9800998ecf8427e                0 main/binary-i686/Packages
+ 8dc5aea5b03dff8595f096f9e368e888               32 main/binary-i686/Packages.xz
+ d41d8cd98f00b204e9800998ecf8427e                0 main/binary-x86_64/Packages
+ 8dc5aea5b03dff8595f096f9e368e888               32 main/binary-x86_64/Packages.xz
+SHA1:
+ 655dd9447125a3bf6a663d62e8fec0babf88d18c              220 Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 main/binary-aarch64/Packages
+ 9746882f4236fa1c3a8f86be2f1d9c46680c0b10               32 main/binary-aarch64/Packages.xz
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 main/binary-all/Packages
+ 9746882f4236fa1c3a8f86be2f1d9c46680c0b10               32 main/binary-all/Packages.xz
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 main/binary-arm/Packages
+ 9746882f4236fa1c3a8f86be2f1d9c46680c0b10               32 main/binary-arm/Packages.xz
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 main/binary-i686/Packages
+ 9746882f4236fa1c3a8f86be2f1d9c46680c0b10               32 main/binary-i686/Packages.xz
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 main/binary-x86_64/Packages
+ 9746882f4236fa1c3a8f86be2f1d9c46680c0b10               32 main/binary-x86_64/Packages.xz
+SHA256:
+ b07ef88085e937181a8aee4f3437f0f1d1f40358707c9a316e61ebbf3005efab              220 Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/binary-aarch64/Packages
+ 0040f94d11d0039505328a90b2ff48968db873e9e7967307631bf40ef5679275               32 main/binary-aarch64/Packages.xz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/binary-all/Packages
+ 0040f94d11d0039505328a90b2ff48968db873e9e7967307631bf40ef5679275               32 main/binary-all/Packages.xz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/binary-arm/Packages
+ 0040f94d11d0039505328a90b2ff48968db873e9e7967307631bf40ef5679275               32 main/binary-arm/Packages.xz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/binary-i686/Packages
+ 0040f94d11d0039505328a90b2ff48968db873e9e7967307631bf40ef5679275               32 main/binary-i686/Packages.xz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/binary-x86_64/Packages
+ 0040f94d11d0039505328a90b2ff48968db873e9e7967307631bf40ef5679275               32 main/binary-x86_64/Packages.xz
+SHA512:
+ 1540ee31f8d23c7d7ccb11ec82acb867db5db0d05814bc66e44d3d86b1bf9bc8ff51309c95b37972fdcbe7b0816344e56cc7d591815e73165f363208baf41b5d              220 Release
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 main/binary-aarch64/Packages
+ 034b32f1138322638c7a5b7949a3b184c6a4cdfd003360a496c08c56c2cc645c94fbe9cdf9d84c963af6dda6c442717cd61d7e1cecf7024bd463f6f5196c5527               32 main/binary-aarch64/Packages.xz
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 main/binary-all/Packages
+ 034b32f1138322638c7a5b7949a3b184c6a4cdfd003360a496c08c56c2cc645c94fbe9cdf9d84c963af6dda6c442717cd61d7e1cecf7024bd463f6f5196c5527               32 main/binary-all/Packages.xz
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 main/binary-arm/Packages
+ 034b32f1138322638c7a5b7949a3b184c6a4cdfd003360a496c08c56c2cc645c94fbe9cdf9d84c963af6dda6c442717cd61d7e1cecf7024bd463f6f5196c5527               32 main/binary-arm/Packages.xz
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 main/binary-i686/Packages
+ 034b32f1138322638c7a5b7949a3b184c6a4cdfd003360a496c08c56c2cc645c94fbe9cdf9d84c963af6dda6c442717cd61d7e1cecf7024bd463f6f5196c5527               32 main/binary-i686/Packages.xz
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 main/binary-x86_64/Packages
+ 034b32f1138322638c7a5b7949a3b184c6a4cdfd003360a496c08c56c2cc645c94fbe9cdf9d84c963af6dda6c442717cd61d7e1cecf7024bd463f6f5196c5527               32 main/binary-x86_64/Packages.xz
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCAAdFiEEiilJcgP39dfQNqK0xln0blQVR7gFAl9mLusACgkQxln0blQV
+R7jRGQv/cgujHMbUQVFiCXs2jkl9y8bfO8DBuBE7Z8OyMmJldGkceOxu2WPJz7vl
+Pg4vSj9rGjz2HERFpQogUXe6vUk2ns94zch+yoXqpGTY4mvYnmYfRHx0M+USoM+j
+GFACHrV4lmIk5Mvj5T8xQR8JODcb66SCoDvDeEfZIzAoAzrFX9pyjar1VJvOIx5G
+dp26ZnpZxfFyhx4FVpE+SPD9MBLAY9vg5OXzm7XVW3dlpkpcjqJ0OE1P3T9eBpYX
+dp3WiBDmPoUQW4/gwdroKtwISYXEPUTSpymYw7deLA0/9Rpr5N/1EW5DEvAN3dcl
+MPezRMIGWx3YXNGjy4Mxtfiyx9KtHCRNS9Xgw8OAQ22MGrvdronEwNOB3MQnXM8g
+EdwTUcn0A6W7SiA3PqBijUScJ9SCxi58rCeNBjHDRZpoJFGultlTUn9QH7FZ45hK
+MGPtiHH73wfoXpB2q3lyp9jnAxmrrG9BCTp6ghiZPrCG4NfGnrQMGYZe7eNhWHRU
+0+ahZ+xn
+=aTCC
+-----END PGP SIGNATURE-----
