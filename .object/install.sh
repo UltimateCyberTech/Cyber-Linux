@@ -6,8 +6,6 @@ decoration() {
 	apt-get install gnupg -yq --silent
 	#rm -r /etc/motd
 	#echo "toilet -F metal -F border -f future termux black" >> /etc/bash.bashrc
-	cp /etc/bash.bashrc /etc/bash.bashrc.bk
-	sed -i s:PS1.*:"PS1=\'\\\\[\\\\e\[1\;34m\\\\]Cyber-LinuX > \\\[\\\e[0;37m\\\\]\'": /etc/bash.bashrc
 }
 
 addrepo() {
