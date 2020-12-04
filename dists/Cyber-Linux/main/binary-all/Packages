@@ -1,17 +1,3 @@
-Package: upkg
-Architecture: all
-Version: 1.5
-Maintainer: Rajdeep Verma @UltimateCyberTech
-Installed-Size: 40
-Filename: dists/Cyber-Linux/main/binary-all/upkg_1.5_all.deb
-Size: 1788
-MD5sum: 0763c0ba5df5f65913aa773a2dc48cf0
-SHA1: d54cffcea09c61b7f334d1c4e5a8155ee74247e0
-SHA256: 0baebe6f11e0133311eb9cb684a3cafb9ae0bef4e20eae2cf9f6faa9a853032f
-SHA512: d576c51d955c36df5a958cab10465c3ad07b87ecfa0c1037c5ec918a955e712fadff729f6eb3eb0ed3b12ea9b08f66ecc1159827b8a8f9de470bfef817110038
-Homepage: https://www.youtube.com/channel/UC31Jyb4PV5Ywt_E_Te9p9JA
-Description: Hello this this special package installer create by me, Rajdeep Verma @UltimateCyberTech. Upkg stands for Unique Package Installer, It is similar to apt and pkg, but It is a very advanced and unique package Installer, because it contain backup,restore and multiple installing feature.
-
 Package: Config
 Architecture: all
 Version: 1.8
@@ -25,17 +11,17 @@ SHA256: 2936a03c72128975b7058da37ee43888bfea45662097bfa580216b362f0f1ffc
 SHA512: 21b4032f78d29027dc1de9dd777c636d0e45e9efc404474c979b303bd1ef07568e7c28973999eb7e5910bf3f6e4202136b1829b0bc2c9e85e2c76e0fe6db718a
 Description: Hey ! guys I Rajdeep Verma built this Device configeration Tool for you all.
 
-Package: ngrok
+Package: upkg
 Architecture: all
-Version: 2.3.35
+Version: 1.5
 Maintainer: Rajdeep Verma @UltimateCyberTech
-Installed-Size: 26096
-Filename: dists/Cyber-Linux/main/binary-all/ngrok_2.3.35_all.deb
-Size: 11729732
-MD5sum: c86cc61353af1faab988fc40512f0b29
-SHA1: 02a0e0ae6cbd57319569150cd5457d27271c0cc3
-SHA256: 619a3a9813e13bd5bc44266adebf63dd016eace758562122609aacb90c921a3a
-SHA512: a2d532974d8c75b14ca7c54f8db3bbc0ad740376c43cf0a4d045dc3de2587cde8292eb26a25e40e2b2971afea7aeeb03375eaa00b3686d0f45719b9172cff027
+Installed-Size: 40
+Filename: dists/Cyber-Linux/main/binary-all/upkg_1.5_all.deb
+Size: 1788
+MD5sum: 0763c0ba5df5f65913aa773a2dc48cf0
+SHA1: d54cffcea09c61b7f334d1c4e5a8155ee74247e0
+SHA256: 0baebe6f11e0133311eb9cb684a3cafb9ae0bef4e20eae2cf9f6faa9a853032f
+SHA512: d576c51d955c36df5a958cab10465c3ad07b87ecfa0c1037c5ec918a955e712fadff729f6eb3eb0ed3b12ea9b08f66ecc1159827b8a8f9de470bfef817110038
 Homepage: https://www.youtube.com/channel/UC31Jyb4PV5Ywt_E_Te9p9JA
-Description: Hey I Rajdeep made this ngrok package version.
+Description: Hello this this special package installer create by me, Rajdeep Verma @UltimateCyberTech. Upkg stands for Unique Package Installer, It is similar to apt and pkg, but It is a very advanced and unique package Installer, because it contain backup,restore and multiple installing feature.
 
